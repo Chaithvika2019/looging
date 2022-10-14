@@ -1,0 +1,10 @@
+DEBUG 2022-09-05 16:46:06,194 root this is DEBUG mode =10
+INFO 2022-09-05 16:46:06,195 root this is INFO mode = 20
+WARNING 2022-09-05 16:46:06,195 root this is WARNING mode = 30
+ERROR 2022-09-05 16:46:06,195 root this is ERROR mode = 40
+CRITICAL 2022-09-05 16:46:06,195 root this is CRITICAL mode = 50
+DEBUG 2022-09-05 16:47:34,821 root this is DEBUG mode =10
+INFO 2022-09-05 16:47:34,822 root this is INFO mode = 20
+WARNING 2022-09-05 16:47:34,822 root this is WARNING mode = 30
+ERROR 2022-09-05 16:47:34,822 root this is ERROR mode = 40
+CRITICAL 2022-09-05 16:47:34,822 root this is CRITICAL mode = 50

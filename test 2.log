@@ -1,0 +1,35 @@
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:this is a warning for the user that we have found 2 in the list
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:this is a warning for the user that we have found 2 in the list
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+WARNING:root:this is a warning for the user that we have found 2 in the list
+DEBUG:root:[1, 2, 3, 4, 5, 6]
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+INFO:root:2
+WARNING:root:this is a warning for the user that we have found 2 in the list
+DEBUG:root:[1, 2, 3, 4, 5, 6]
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+INFO:root:2
+WARNING:root:this is a warning for the user that we have found 2 in the list
+DEBUG:root:[1, 2, 3, 4, 5, 6]
+DEBUG:root:this level 10 for Debug
+DEBUG:root:this level 10 for Debug
+INFO:root:2
+WARNING:root:this is a warning for the user that we have found 2 in the list
+DEBUG:root:[1, 2, 3, 4, 5, 6]
